@@ -68,3 +68,4 @@ To write a program for **mean**, **variance**, and **cross-correlation** in Scil
 ---
 
 ## RESULT:
+Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
