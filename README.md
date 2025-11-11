@@ -56,6 +56,7 @@ To write a program for **mean**, **variance**, and **cross-correlation** in Scil
 
 ---
 
+<img width="795" height="760" alt="image" src="https://github.com/user-attachments/assets/3a736c17-cdc9-4534-8d1b-81a5688ca336" />
 
 
 ---
